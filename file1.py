@@ -1,1 +1,2 @@
-"printf("hello from 3")" 
+print('hello world')
+print('resolved')
